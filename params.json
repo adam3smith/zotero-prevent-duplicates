@@ -1,0 +1,6 @@
+{
+  "name": "Zotero-prevent-duplicates",
+  "tagline": "A plugin to prevent duplicates in Zotero.",
+  "body": "### Zotero Prevent Duplicates Plugin\r\nThis plugin was developed by Cora Johnson-Roberson. It works for Zotero for Firefox only. Cora doesn't have time to maintain it, so I'm offering it a home (and a signed version) here, but I will not be developing it or (likely) even maintain it should it break in the future.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
